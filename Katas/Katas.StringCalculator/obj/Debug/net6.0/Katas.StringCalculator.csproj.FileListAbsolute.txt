@@ -1,0 +1,12 @@
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\bin\Debug\net6.0\Katas.StringCalculator.deps.json
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\bin\Debug\net6.0\Katas.StringCalculator.dll
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\bin\Debug\net6.0\Katas.StringCalculator.pdb
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.csproj.AssemblyReference.cache
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.AssemblyInfoInputs.cache
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.AssemblyInfo.cs
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.dll
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\refint\Katas.StringCalculator.dll
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\Katas.StringCalculator.pdb
+C:\Projects\trainings\Katas\Katas\Katas.StringCalculator\obj\Debug\net6.0\ref\Katas.StringCalculator.dll
